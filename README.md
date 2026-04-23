@@ -24,11 +24,11 @@ This project analyzes unemployment trends in India and predicts unemployment rat
 
 ## 📸 Screenshots
 🖥️ User Interface
-![UI](assets/ui.png)
+![UI](ui.png)
 📊 Prediction Result
-![Result](assets/result.png)
+![Result](result.png)
 📈 Visualization
-![Chart](assets/chart.png)
+![Chart](chart.png)
 
 ## 🌐 Run the App
 ```bash
