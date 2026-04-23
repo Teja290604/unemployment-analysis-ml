@@ -21,6 +21,15 @@ This project analyzes unemployment trends in India and predicts unemployment rat
 ## 🧠 Model Performance
 - Random Forest achieved best performance with R² ≈ 0.63
 
+
+## 📸 Screenshots
+🖥️ User Interface
+![UI](assets/ui.png)
+📊 Prediction Result
+![Result](assets/result.png)
+📈 Visualization
+![Chart](assets/chart.png)
+
 ## 🌐 Run the App
 ```bash
 streamlit run app.py
